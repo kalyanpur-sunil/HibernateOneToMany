@@ -7,7 +7,7 @@
 		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
 		<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/SunilSchema</property>
 		<property name="hibernate.connection.username">sunil</property>
-		<property name="hibernate.connection.password">sunil110</property>
+		<property name="hibernate.connection.password">password</property>
 		<mapping class="org.sunil.entity.Department" />
 		<mapping class="org.sunil.entity.Employee" />
 	</session-factory>
